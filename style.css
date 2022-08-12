@@ -20,7 +20,7 @@
     margin-bottom: 100px;
     min-width: 303px;
     max-width: 303px;
-    border-radius: 12px;
+    border-radius: 25px;
     padding: 10px;
 }
 
@@ -32,7 +32,7 @@
 }
 
 #imag{
-    border-radius: 10px;
+    border-radius: 25px;
     width: 300px;
     height: 300px;
 }
@@ -43,5 +43,5 @@ h2{
 
 p{
     font-weight: 400;
-    color: hsl(212, 45%, 89%);
+    color: hsl(220, 15%, 55%);
 }
