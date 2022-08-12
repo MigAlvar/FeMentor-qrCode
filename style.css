@@ -1,0 +1,52 @@
+@font-face {
+    font-family: Outfit;
+    src: url(/fonts/Outfit-VariableFont_wght.ttf);
+    /*https://fonts.google.com/specimen/Outfit*/
+}
+
+.main{
+    background-color: hsl(220, 47%, 93%);
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container{
+    background-color: white;
+    background-color: hsl(0%, 0%, 100%);
+
+    margin-top: 100px;
+    margin-bottom: 100px;
+    min-width: 303px;
+    max-width: 303px;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+.explainer{
+    font-family:Outfit;
+    font-size: 15px;
+    padding: 5px;
+    margin: 5px;
+}
+
+#imag{
+    border-radius: 10px;
+    width: 300px;
+    height: 300px;
+}
+
+h2{
+    font-weight: 700;
+}
+
+p{
+    font-weight: 400;
+    color: hsl(212, 45%, 89%);
+}
+
+.attribution{
+    text-align: bottom;
+    background-color:  hsl(220, 47%, 93%);
+}
